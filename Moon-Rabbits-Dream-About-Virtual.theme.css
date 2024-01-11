@@ -62,9 +62,9 @@
     --L: 71%; /* Value in % [71% is default] */
 
     /* HSL DarkTheme */
-    --darkH: 10;     /* Value in numbers [0 is default] */
-    --darkS: 10%;    /* Value in % [0% is default] */
-    --darkL: 20%;   /* Value in % [16% is default] */
+    --darkH: 0;     /* Value in numbers [0 is default] */
+    --darkS: 0%;    /* Value in % [0% is default] */
+    --darkL: 16%;   /* Value in % [16% is default] */
 
     /* Windows Buttons Colors */
     --close-color: #da5169;
